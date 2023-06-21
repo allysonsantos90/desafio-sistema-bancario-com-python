@@ -3,7 +3,7 @@ menu = """
 [2] Sacar
 [3] Extrato
 [4] Sair
-
+   
 Escolha uma das opções: 
 """
 
